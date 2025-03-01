@@ -2,22 +2,6 @@
 #include <iomanip>
 
 int main(){
-/*
-if (age >= 18){
-    std:: cout <<  "Your eligible to gamble. ";
-} else {
-    cout << "You must be at least 18 to vote." << ;
-
-if (score >= 90) {
-    cout << "Grade: A" << endl;
-} else if (score >= 80) {
-    cout << "Grade: B" << endl;
-} else if (score >= 70) {
-    cout << "Grade: C" << endl;
-} else {
-    cout << "You failed." << endl;
-}
-*/
 
 double performance_rate, hours_worked, hourly_wage, check, salary, bonus1, bonus2;
 int Years_Of_Service;
